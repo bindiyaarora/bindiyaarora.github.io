@@ -21,7 +21,7 @@ Quantum Mechanics II(M.Sc. Hons)
 Quantum Mechanics I (M.Sc. Hons)
 Theoretical Techniques (Pre PhD)
 
-# Some teaching jobs I took while I was at the University of Delaware: 
+## Some teaching jobs I took while I was at the University of Delaware: 
 
 Substitute Instructor for PHYS424, “Introduction to Quantum Mechanics”, Spring 2008
 Teaching Assistant for PHYS207, “Fundamentals of Physics I”, Spring 2008
