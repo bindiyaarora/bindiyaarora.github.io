@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-#Courses teaching/taught at Physics Department, GNDU, Amritsar, India:
+## Courses teaching/taught at Physics Department, GNDU, Amritsar, India:
 
 Research Methodology (Pre Phd. Course)
 Theory of relativity (B.Sc. Hons)
