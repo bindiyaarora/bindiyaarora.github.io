@@ -2,21 +2,25 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research Group"
+    url: /research_group/
+    
+  - title: "Research"
+    url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Conferences and Presentations"
+    url: /conferences/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Research Grants"
+    url: /grants/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Future Goals"
+    url: /future/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
