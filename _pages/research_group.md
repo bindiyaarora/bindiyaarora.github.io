@@ -3,6 +3,9 @@ layout: archive
 title: "Research Group"
 permalink: /research_group/
 author_profile: true
+redirect_from: 
+  - /research_group/
+  - /research_group.html
 ---
 
 **Atoms@GNDU:***
