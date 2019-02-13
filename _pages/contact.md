@@ -1,7 +1,7 @@
 
 
 
-*Dr. Bindiya Arora*
+**Dr. Bindiya Arora**
 
 Department of Physics,
 Guru Nanak Dev University,
