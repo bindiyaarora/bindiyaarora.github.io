@@ -175,7 +175,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-   # _researchgroup
+   # _research_group
   - scope:
       path: ""
       type: pages
