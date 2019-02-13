@@ -5,6 +5,21 @@ permalink: /conferences/
 author_profile: true
 ---
 
+## Conferences
+[ISAMP-2012]()
+[BVSE 2012]()
+[ICQOQC 2011]()
+[ICTP-Ultra cold conference-2011]()
+[SAMOP 2009]()
+[DAMOP 2008]()
+[DAMOP 2007]()
+[DAMOP 2006]()
+[ICAP 2006]()
+[ICAP SUMMER SCHOOL 2006]()
+[DAMOP 2005]()
+
+
+
 ## Presentations
 Presented an invited talk entitled “Adventures in Scientific world”, at SDAM College, Dinanagar, Nov 2018.
 Attended Workshop on Giant Interactions in Rydberg Systems at the Center for Optical Quantum Technologies, Hamburg, July 2018.
